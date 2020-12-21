@@ -1,0 +1,8 @@
+test*
+*.o
+.*.*.swp
+main*
+*.a
+*.o
+a.out
+*.sh
